@@ -1,0 +1,10 @@
+{
+  "notebooks": {
+    "PytorchBasics.ipynb": {
+      "slug": "789e105b0e474ce4869ebf5544da846d"
+    },
+    "01-tensor-operations.ipynb": {
+      "slug": "d8a7132ebdf4412fb90806f4d3208083"
+    }
+  }
+}
